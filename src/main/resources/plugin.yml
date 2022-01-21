@@ -1,0 +1,14 @@
+name: WRTTHover
+version: 1.0.0
+main: com.astronaut.wrtthover.WRTTHover
+description: Player hovering with ground limit!
+author: Astronaut
+
+commands:
+  hover:
+    description: Toggle Player Hover
+
+permissions:
+  wrtt.faehover:
+    description: Permission to use Hover command.
+    default: op
